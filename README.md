@@ -27,4 +27,4 @@
 - неустойчивость к погрешностям
 - отсутствие параметров, которые можно было бы настраивать по выборке.
 
-[Code](https://github.com/blackberry26/SMPR/blob/master/on%D1%82%D1%82e.R)
+[Code](https://github.com/blackberry2697/SMPR/blob/master/on%D1%82%D1%82e.R)
